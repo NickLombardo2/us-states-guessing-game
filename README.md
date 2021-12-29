@@ -1,6 +1,6 @@
 # us-states-guessing-game
-Use this game to test how well you know the states of the U.S
-To get a list of all the states that you do not know type "exit" and a CSV file will be created to show you all the missing states 
+Use this game to test how well you know the states of the U.S.
+To get a list of all the states that you do not know type "exit" and a CSV file will be created to show you all the missing states. 
 This image below is used in the code as blank_states_img
 
 
